@@ -1,3 +1,3 @@
-module ipsw-updates
+module ipsw-timeline
 
 go 1.21
